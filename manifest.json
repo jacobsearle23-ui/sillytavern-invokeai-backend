@@ -1,0 +1,8 @@
+{
+  "name": "InvokeAI Backend",
+  "version": "1.0.0",
+  "author": "Jake",
+  "description": "Adds InvokeAI as an image generation backend in SillyTavern",
+  "entrypoint": "index.js",
+  "type": "image_generation"
+}
